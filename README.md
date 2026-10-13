@@ -1,52 +1,30 @@
-# Olá, sou a Francieli Engmam 👋
-Analista de Dados | Especialista em SQL, Python e Power BI | Transformando dados complexos da Cadeia de Suprimentos e Operações em insights executivos.
+# Hello, I'm Francieli Engmam 👋
+
+Data Analyst & BI Specialist | Expert in SQL, Python, and Power BI | Transforming complex Supply Chain and Operations data into high-impact executive intelligence.
 
 ---
 
-## 🚀 O meu Portfólio de Projetos
+## 🚀 Project Portfolio
 
-* **🔗 [Aceder ao meu Site de Portfólio (GitHub Pages)](https://francieliengmam.github.io/Portifolio/)**
-*(Explore aqui a minha coleção de dashboards interativos, análises de dados, Supply Chain e templates de Business Intelligence)*
-
----
-
-## 📂 Categorias do Portfólio
-
-- 🚚 **Supply Chain & Logística:** Dashboards de monitorização de fretes, SLAs e riscos de peças.
-- 🏬 **Operações & Manutenção:** Análises de tempo de inatividade de equipamentos e eficiência operacional.
-- 🤖 **IA e Qualidade de Dados:** Pipelines e métricas de qualidade de dados para IA e machine learning.
+* 🔗 **[Access my Portfolio Website (GitHub Pages)](https://francieliengmam.github.io/Portifolio/)** *(Explore my collection of interactive dashboards, data analytics case studies, supply chain models, and business intelligence frameworks)*
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 📂 Portfolio Categories
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-</p>
+* 🚚 **Supply Chain & Logistics:** Dashboards monitoring freight costs, delivery SLAs, demand forecast alignment, and part-level operational risks.
+* 🏭 **Operations & Maintenance:** Equipment downtime analytics, repair frequency tracking, and supplier SLA compliance.
+* 🤖 **AI & Data Quality:** Precision data validation pipelines and schema governance for AI and LLM dataset training.
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 🛠️ Technologies & Tools
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=francieliengmam&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=francieliengmam&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 ---
 
-## 📬 Vamos conectar?
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/francieliengmam" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:francieliengmam93@gmail.com">
-    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+## 📊 GitHub Statistics
