@@ -27,13 +27,8 @@ Analista de Dados | Especialista em SQL, Python e Power BI | Transformando dados
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 </p>
 
----
+<img width="847" height="690" alt="image" src="https://github.com/user-attachments/assets/dbb6631f-b83b-4165-a5a1-5a7a5bacaedd" />
 
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=francieliengmam&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=francieliengmam&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
