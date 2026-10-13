@@ -6,7 +6,7 @@ Analista de Dados | Especialista em SQL, Python e Power BI | Transformando dados
 ## 🚀 O meu Portfólio de Projetos
 
 * **🔗 [Aceder ao meu Site de Portfólio (GitHub Pages)](https://francieliengmam.github.io/Portifolio/)**
-*(Aqui podes ver o meu dashboard interativo de Supply Chain e Análise de Custos)*
+*(Explore aqui a minha coleção de dashboards interativos, análises de dados, Supply Chain e templates de Business Intelligence)*
 
 ---
 
